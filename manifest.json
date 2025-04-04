@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Google Maps Easy Scrape",
+    "name": "Google Maps Scrape",
     "version": "1.0",
-    "description": "Google Maps Easy Scrape by Mike Powers",
+    "description": "Google Maps Scrape",
     "permissions": ["activeTab", "scripting"],
     "action": {
       "default_popup": "popup.html"
